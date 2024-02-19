@@ -1,6 +1,7 @@
 package mygorm
 
 import (
+	_ "github.com/go-sql-driver/mysql"
 	"github.com/scott-pb/mygorm/log"
 	"testing"
 )
