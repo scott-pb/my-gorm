@@ -2,7 +2,6 @@ package mygorm
 
 import (
 	"database/sql"
-	_ "github.com/go-sql-driver/mysql"
 	"github.com/scott-pb/mygorm/log"
 	"github.com/scott-pb/mygorm/session"
 )
